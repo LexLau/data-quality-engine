@@ -1,5 +1,5 @@
--- Rule: Check for duplicate customer_email values
--- Purpose: Ensure customer_email is unique
+-- Rule: Check for duplicate customer_email values TESTING
+-- Purpose: Ensure customer_email is unique TESTING
 
 SELECT 
     customer_email,
